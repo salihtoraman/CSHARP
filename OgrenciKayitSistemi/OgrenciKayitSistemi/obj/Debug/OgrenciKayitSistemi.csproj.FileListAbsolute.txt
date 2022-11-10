@@ -1,0 +1,11 @@
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe.config
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.pdb
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.Form1.resources
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.Properties.Resources.resources
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.GenerateResource.cache
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.exe
+C:\Users\toroman\Desktop\C# İşkur\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.pdb
